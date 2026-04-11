@@ -1,0 +1,6 @@
+[submodule "td5"]
+	path = td5
+	url = https://github.com/NilsMT/imac-algo-s2-td5
+[submodule "td3"]
+	path = td3
+	url = https://github.com/NilsMT/imac-algo-s2-td3
